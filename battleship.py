@@ -23,8 +23,6 @@ ship_col = random_col(board)
 print ship_row
 print ship_col
 
-# Everything from here on should go in your for loop!
-# Be sure to indent four spaces!
 turn = 0
 for turn in range(4):
     
